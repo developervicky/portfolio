@@ -1,2 +1,2 @@
-# Heading 1
-codeSTACKr portfolio clone
+# Portfolio
+This Portfolio Website showcase my skills on Sass. 
