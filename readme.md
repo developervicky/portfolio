@@ -1,2 +1,2 @@
 # Portfolio
-This Portfolio Website showcase my skills on Sass. 
+This Portfolio website showcase my skills on Sass. 
